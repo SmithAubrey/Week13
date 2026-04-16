@@ -3,11 +3,26 @@ color: black;
   background-color: ghostwhite;
 }
 
+body.dark {
+  background-color: dimgray;
+  color: white;
+}
+
+
 .btn {
 color: black;
   background-color: lightgray;
   border-radius: 5px;
   border: 5px darkgray groove;
+  cursor: pointer;
+  padding: 1rem;
+}
+
+.btn.dark {
+color: white;
+  background-color: gray;
+  border-radius: 5px;
+  border: 5px; darkgray groove;
   cursor: pointer;
   padding: 1rem;
 }
