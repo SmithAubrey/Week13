@@ -2,3 +2,10 @@ body {
 color: black;
   background-color: ghostwhite;
 }
+
+.btn {
+color: black;
+  background-color: lightgray;
+  border-radius: 5px;
+  border: 3px darkgray groove;
+}
