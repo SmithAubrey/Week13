@@ -1,6 +1,4 @@
-.btn {
+body {
 color: black;
-  background-color: lightgrey;
-  border-radius: 5px;
-  border: 5px darkgrey groove;
+  background-color: ghostwhite;
 }
