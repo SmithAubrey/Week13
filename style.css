@@ -26,3 +26,8 @@ color: white;
   cursor: pointer;
   padding: 1rem;
 }
+
+img {
+  width: 250px;
+  height: 375px;
+}
