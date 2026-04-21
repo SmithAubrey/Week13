@@ -9,7 +9,7 @@ body.dark {
 }
 
 
-.btn {
+button {
 color: black;
   background-color: lightgray;
   border-radius: 5px;
@@ -18,7 +18,7 @@ color: black;
   padding: 1rem;
 }
 
-.btn.dark {
+button.dark {
 color: white;
   background-color: gray;
   border-radius: 5px;
@@ -30,4 +30,10 @@ color: white;
 img {
   width: 250px;
   height: 375px;
+  padding: 1rem;
+}
+
+footer {
+  margin-top: 3rem;
+  justify-content: center;
 }
