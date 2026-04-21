@@ -1,4 +1,4 @@
-cost button = document.getElementById("btn");
+const button = document.getElementById("btn");
 let darkMode = false;
 
 button.addEventListener("click", () ==> {
